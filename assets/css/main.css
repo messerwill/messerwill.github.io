@@ -2508,8 +2508,8 @@ input, select, textarea {
 	}
 
 		select option {
-			background-color: #ffffff;
-			color: #212931;
+			background-color: #f5f0e6;
+			color: #000000;
 		}
 
 	.select-wrapper:before {
