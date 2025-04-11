@@ -4678,3 +4678,20 @@ input, select, textarea {
 		}
 
 	}
+#main,
+#intro,
+#wrapper,
+.posts,
+section {
+	background-color: transparent !important;
+}
+
+* {
+	background-color: transparent !important;
+}
+html, body {
+	background-color: #001f3f !important;
+}
+article {
+	background-color: #f5deb3 !important;
+}
